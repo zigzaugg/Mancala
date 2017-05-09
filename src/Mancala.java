@@ -16,7 +16,7 @@ public class Mancala{
 	static String player1, player2;
 
 	public static void main(String[] args){	
-		//Propts the user for both player names so they know whose turn it is
+		//Prompts the user for both player names so they know whose turn it is
 		setPlayerName();
 		//initializes all of the pockets
 		initPockets();
